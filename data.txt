@@ -1,0 +1,7 @@
+Python is a programming language.
+Machine Learning helps computers learn from data.
+Deep Learning uses neural networks.
+NLP means Natural Language Processing.
+RAG means Retrieval Augmented Generation.
+AI stands for Artificial Intelligence.
+TensorFlow is used for deep learning.

@@ -1,0 +1,4 @@
+RAG means Retrieval Augmented Generation.
+It helps AI answer questions using our own data.
+RAG first searches the data and then generates an answer.
+This method reduces wrong or imaginary answers.
